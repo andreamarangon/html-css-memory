@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ADD8E6;
+  text-align: center;
+}
+
+.container {
+  height: 900px;
+  width: 800px;
+  background-color: red;
+  margin: 0 auto;
+  position: relative;
+}
+
+.card {
+  background-color: white;
+  width: 185px;
+  height: 220px;
+  border: 1px solid black;
+}
+
+/* .row-1{
+  position: relative;
+  height: 220px;
+  width: 100%;
+} */
+.c-1 {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.c-2 {
+  position: absolute;
+  left: 205px;
+  top: 0;
+}
+
+.c-3 {
+  position: absolute;
+  right: 205px;
+  top: 0;
+}
+
+.c-4 {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.c-5 {
+  position: absolute;
+  top: 250px;
+}
+
+.c-6 {
+  position: absolute;
+  top: 250px;
+  left: 205px;
+}
+
+.c-7 {
+  position: absolute;
+}
+
+.c-8 {
+  position: absolute;
+}
+
+.c-9 {
+ position: absolute;
+}
+
+.c-10 {
+  position: absolute;
+}
+
+.c-11 {
+  position: absolute;
+}
+
+.c-12 {
+  position: absolute;
+}
